@@ -1,2 +1,2 @@
 # RegisterRfidWithfindTag
-You can register RFID Tag and map items with RFID tag and also you can find the tag with using lottie animation 
+This feature allows users to seamlessly register RFID tags and associate (map) them with specific items for efficient inventory or asset tracking. Once registered, users can easily locate a specific tag using a visually engaging Lottie animation that guides them during the tag search process. The animated feedback provides an intuitive and interactive way to detect and identify tags in real-time, enhancing usability and reducing search time.
